@@ -1,0 +1,20 @@
+{
+	"name": "cvaldemar/laravel-perch",
+	"description": "Easily integrate Perch as backend for your Laravel project",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Casper Valdemar Poulsen",
+			"email": "casper@grz.dk"
+		}
+	],
+	"require": {
+		"php": ">=5.4.0",
+	},
+	"autoload": {
+		"psr-0": {
+			"Cvaldemar\\LaravelPerch": "src/"
+		}
+	},
+	"minimum-stability": "stable"
+}
